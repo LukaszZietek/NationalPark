@@ -1,0 +1,1 @@
+"This repository contain a ASP.NET Core application. Inside u can find a 2 project. First is a WebApi with 3 models and authentication schema. Second one is a MVC project which use web api to get a data and it is something like a client application. I created simple frontend and I connected it with the web api (backend)." 
